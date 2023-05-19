@@ -1,5 +1,5 @@
 # creating-virtual-machines-using-Azure
-In this project, we will be creating a virtual machine using Microsodt Azure.
+In this project, we will be creating a virtual machine using Microsoft Azure.
 
 First you will need to go to Microsoft Azure at portal.azure.com and create your account if you haven't done so already.
 
