@@ -1,5 +1,11 @@
-# creating-virtual-machines-using-Azure
-In this project, we will be creating a virtual machine using Microsoft Azure.
+# Creating-virtual-machines-using-Azure
+In this tutorial outlines, we will be creating a virtual machine using Microsoft Azure.
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+
+
 
 First you will need to go to Microsoft Azure at portal.azure.com and create your account if you haven't done so already.
 
